@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matías Acosta Guzmán | Enseñanza Exclusiva de Japonés</title>
+    <title>Matías Acosta Guzmán | Transforma tu relación con el japonés</title>
     <meta name="description" content="Más de 10 años de experiencia enseñando japonés. Clases personalizadas con enfoque psicológico por profesor con experiencia vivida en Tokio.">
     
     <!-- Fonts -->
@@ -221,6 +221,79 @@
             display: flex;
             gap: 1rem;
             flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+
+        .hero-plans {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            max-width: 520px;
+        }
+
+        .hero-plan-card {
+            background: rgba(212, 175, 55, 0.08);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            border-radius: 8px;
+            padding: 1.25rem;
+            transition: all 0.3s ease;
+        }
+
+        .hero-plan-card:hover {
+            background: rgba(212, 175, 55, 0.12);
+            border-color: rgba(212, 175, 55, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .hero-plan-card h3 {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            margin-bottom: 0.25rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .hero-plan-price {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--accent-gold);
+            margin-bottom: 0.5rem;
+        }
+
+        .hero-plan-price span {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 400;
+            color: var(--text-secondary);
+            margin-left: 0.25rem;
+        }
+
+        .hero-plan-card p {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: 0.75rem;
+        }
+
+        .hero-plan-card a {
+            font-size: 0.8rem;
+            color: var(--accent-gold);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s ease;
+        }
+
+        .hero-plan-card a:hover {
+            color: #e5c04a;
+        }
+
+        @media (max-width: 576px) {
+            .hero-plans {
+                grid-template-columns: 1fr;
+            }
         }
 
         .btn {
@@ -541,9 +614,9 @@
 
         .services-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 2rem;
-            max-width: 1200px;
+            max-width: 900px;
             margin: 0 auto;
         }
 
@@ -987,13 +1060,6 @@
             }
         }
 
-        @media (min-width: 577px) and (max-width: 991px) {
-            .services-grid {
-                grid-template-columns: repeat(2, 1fr);
-                max-width: 800px;
-            }
-        }
-
         @media (max-width: 576px) {
             .stats-container {
                 grid-template-columns: 1fr;
@@ -1027,14 +1093,30 @@
     <section class="hero" id="inicio">
         <div class="hero-container">
             <div class="hero-content">
-                <p class="hero-eyebrow">Enseñanza Exclusiva de Japonés</p>
+                <p class="hero-eyebrow">Transforma tu relación con el japonés</p>
                 <h1 class="hero-title">Domina el japonés con un enfoque que <span>entiende cómo aprendes</span></h1>
                 <p class="hero-subtitle">Más de una década transformando la manera de aprender japonés. Mi experiencia viviendo en Tokio y formación en psicología me permiten diseñar un camino de aprendizaje único para cada estudiante.</p>
                 <div class="hero-buttons">
-                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20clases." class="btn btn-primary" target="_blank">
+                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="btn btn-primary" target="_blank">
                         <i class="fab fa-whatsapp"></i>
                         Comienza tu viaje
                     </a>
+                </div>
+                <div class="hero-plans">
+                    <div class="hero-plan-card">
+                        <h3>Programa Intensivo de 3 meses</h3>
+                        <div class="hero-plan-price">1997€</div>
+                        <div style="font-size: 0.75rem; color: var(--text-secondary); margin-bottom: 0.5rem;">Pack de aprendizaje intensivo</div>
+                        <p>+192 horas de capacitación intensiva en grupos reducidos</p>
+                        <a href="#servicios" class="hero-plan-link">Más info →</a>
+                    </div>
+                    <div class="hero-plan-card">
+                        <h3>Japonés para viajes</h3>
+                        <div class="hero-plan-price">500€</div>
+                        <div style="font-size: 0.75rem; color: var(--text-secondary); margin-bottom: 0.5rem;">Pack completo</div>
+                        <p>6 clases + itinerario personalizado para tu viaje a Japón</p>
+                        <a href="#viajes" class="hero-plan-link">Más info →</a>
+                    </div>
                 </div>
             </div>
             <div class="hero-image">
@@ -1133,48 +1215,41 @@
     </section>
 
     <!-- Services Section -->
-    <section class="section services">
+    <section class="section services" id="servicios">
         <div class="section-container">
             <h2 class="section-title reveal">Elige tu <span style="color: var(--accent-gold);">camino</span></h2>
             <p class="section-subtitle reveal">Opciones diseñadas para diferentes necesidades y compromisos</p>
             <div class="services-grid">
-                <div class="service-card reveal">
-                    <h3>Clases Individuales</h3>
-                    <div class="service-price">45€/hora</div>
-                    <ul class="service-features">
-                        <li><i class="fas fa-check"></i> Horario flexible</li>
-                        <li><i class="fas fa-check"></i> Plan de estudio personalizado</li>
-                        <li><i class="fas fa-check"></i> Material didáctico incluido</li>
-                        <li><i class="fas fa-check"></i> Seguimiento entre clases</li>
-                        <li><i class="fas fa-check"></i> Soporte vía WhatsApp</li>
-                    </ul>
-                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20clases." class="btn btn-secondary" style="width: 100%; justify-content: center;" target="_blank">Reservar</a>
-                </div>
                 <div class="service-card featured reveal">
                     <span class="service-badge">Recomendado para máxima inmersión y avance rápido</span>
-                    <h3>Programa Intensivo</h3>
-                    <div class="service-price">480€/mes</div>
+                    <h3>Programa Intensivo de 3 meses</h3>
+                    <div class="service-price">1997€</div>
+                    <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1.5rem;">Pack de aprendizaje intensivo</div>
                     <ul class="service-features">
-                        <li><i class="fas fa-check"></i> 4 clases semanales (16 clases/mes)</li>
+                        <li><i class="fas fa-check"></i> Grupos reducidos</li>
+                        <li><i class="fas fa-check"></i> +192 horas de capacitación intensiva</li>
                         <li><i class="fas fa-check"></i> Preparación JLPT incluida</li>
                         <li><i class="fas fa-check"></i> Plan de estudio completo</li>
                         <li><i class="fas fa-check"></i> Material didáctico incluido</li>
                         <li><i class="fas fa-check"></i> Avance a ritmo acelerado</li>
                         <li><i class="fas fa-check"></i> Soporte vía WhatsApp</li>
+                        <li><i class="fas fa-check"></i> Sesión individual y personalizada cada mes</li>
+                        <li><i class="fas fa-check"></i> Garantía de aprobación del JLPT Nōken (examen oficial e internacional de japonés)</li>
                     </ul>
-                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20clases." class="btn btn-primary" style="width: 100%; justify-content: center;" target="_blank">Comenzar ahora</a>
+                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="btn btn-primary" style="width: 100%; justify-content: center;" target="_blank">Comenzar ahora</a>
                 </div>
-                <div class="service-card reveal">
+                <div class="service-card reveal" id="viajes">
                     <h3>Japonés para viajes</h3>
-                    <div class="service-price">350€ <span style="font-size: 0.9rem; color: var(--text-secondary);">pack completo</span></div>
+                    <div class="service-price">500€ <span style="font-size: 0.9rem; color: var(--text-secondary);">Pack completo</span></div>
                     <ul class="service-features">
                         <li><i class="fas fa-check"></i> 6 clases de una hora enfocadas en comunicación viajera</li>
                         <li><i class="fas fa-check"></i> Itinerario personalizado diseñado para tu viaje</li>
                         <li><i class="fas fa-check"></i> Frases esenciales para restaurantes, tiendas y transporte</li>
                         <li><i class="fas fa-check"></i> Consejos culturales para evitar errores típicos de turista</li>
+                        <li><i class="fas fa-check"></i> Infografías y otros materiales muy útiles para tu viaje</li>
                         <li><i class="fas fa-check"></i> Soporte vía WhatsApp durante tu viaje</li>
                     </ul>
-                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20clases." class="btn btn-secondary" style="width: 100%; justify-content: center;" target="_blank">Reservar</a>
+                    <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="btn btn-primary" style="width: 100%; justify-content: center;" target="_blank">Reservar</a>
                 </div>
             </div>
         </div>
@@ -1213,7 +1288,7 @@
                             <i class="fas fa-chevron-down"></i>
                         </button>
                         <div class="faq-answer">
-                            <p>Ofrezco ambas modalidades. Las clases online mantienen la misma calidad y interacción que las presenciales, con herramientas digitales que enriquecen la experiencia.</p>
+                            <p>Las clases son online, y mantienen la misma calidad e interacción que las presenciales, sumado a herramientas digitales que enriquecen la experiencia.</p>
                         </div>
                     </div>
                     <div class="faq-item reveal">
@@ -1244,7 +1319,7 @@
         <div class="cta-container">
             <h2 class="reveal">Tu viaje al japonés comienza aquí</h2>
             <p class="reveal">Las plazas son limitadas para garantizar la calidad del servicio.</p>
-            <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20clases." class="cta-button reveal" target="_blank">
+            <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="cta-button reveal" target="_blank">
                 <i class="fab fa-whatsapp"></i>
                 Escríbeme por WhatsApp
             </a>
