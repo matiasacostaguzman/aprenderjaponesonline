@@ -654,17 +654,13 @@
             transform: translateY(30px);
         }
 
-        .service-card:nth-child(2) {
-            transform: translateY(-10px);
+        .service-card.featured {
+            border-color: var(--accent-gold);
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.1);
         }
 
         .service-card.visible {
             animation: fadeInSide 0.6s ease forwards;
-        }
-
-        .service-card.featured {
-            border-color: var(--accent-gold);
-            box-shadow: 0 0 30px rgba(212, 175, 55, 0.1);
         }
 
         .service-card h3 {
@@ -850,7 +846,7 @@
         .footer {
             background: var(--bg-primary);
             padding: 3rem 2rem;
-            border-top: 1px solid var(--border);
+            border-top: 1px solid var(--accent-gold);
         }
 
         .footer-container {
@@ -1264,7 +1260,7 @@
                     </ul>
                     <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="btn btn-primary" style="width: 100%; justify-content: center;" target="_blank">Consultar por plazas</a>
                 </div>
-                <div class="service-card reveal" id="n5">
+                <div class="service-card featured reveal" id="n5">
                     <h3>Programa Intensivo de Comunicación y N5</h3>
                     <div class="service-price"><s style="color: var(--text-secondary); font-size: 1.3rem; margin-right: 0.5rem;">1497€</s>1297€</div>
                     <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.5rem;">Pack de aprendizaje intensivo en 3 meses</div>
@@ -1280,6 +1276,7 @@
                         <li><i class="fas fa-check"></i> Garantía de aprobación del JLPT Nōken (examen oficial e internacional de japonés)</li>
                     </ul>
                     <a href="https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios." class="btn btn-primary" style="width: 100%; justify-content: center;" target="_blank">Consultar por plazas</a>
+                    <p style="font-size: 0.8rem; color: var(--accent-gold-muted); text-align: center; margin-top: 1rem;">También consulta por este plan para otros niveles</p>
                 </div>
                 <div class="service-card featured reveal" id="inmersion">
                     <h3>Inmersión Total</h3>
