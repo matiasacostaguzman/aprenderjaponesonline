@@ -8,15 +8,25 @@ Landing page profesional para servicios premium de enseñanza de japonés.
 
 ## 📋 Servicios
 
-- **Programa Intensivo de 3 meses** - 1997€ (Pack de aprendizaje intensivo)
-  - +192 horas de capacitación intensiva en grupos reducidos
-  - Preparación JLPT incluida
-  - Garantía de aprobación del JLPT Nōken
-  - Sesión individual y personalizada cada mes
+- **Comunicación eficiente en Japón** - 500€ (Pack de 2 meses)
+  - 2 horas, 2 veces por semana de capacitación en directo
+  - Te comunicarás mucho más tranquilo en Japón
 
-- **Japonés para viajes** - 500€ (Pack completo)
-  - 6 clases + itinerario personalizado
-  - Infografías y materiales útiles para tu viaje
+- **Programa Intensivo de Comunicación y N5** - 1297€ ~~1497€~~ (Pack de aprendizaje intensivo en 3 meses)
+  - 72 horas totales de capacitación en directo, 3 veces por semana.
+  - De cero a base sólida JLPT N5
+  - Corrección de ejercicios
+  - Simulacros y seguimiento de progreso
+  - Sesión individual y personalizada cada mes
+  - Garantía de aprobación del JLPT Nōken
+
+- **Inmersión Total** - 3997€ (Plan de inmersión absoluta en 3 meses)
+  - +192 horas de capacitación intensiva en directo, en grupos muy reducidos
+  - Preparación JLPT incluida
+  - Plan de estudio completo
+  - Avance a ritmo acelerado
+  - Corrección de ejercicios
+  - Garantía de aprobación del JLPT Nōken
 
 ## ✨ Diferenciadores
 
