@@ -12,32 +12,38 @@ Este proyecto contiene una landing page estática en HTML, CSS y JavaScript vani
 
 La página comunica una propuesta premium: aprender japonés con un método personalizado, práctico y orientado a resultados, combinando más de 10 años de experiencia docente, 18 meses de estudio intensivo en Tokio y formación en psicología aplicada al aprendizaje.
 
+Además del aprendizaje lingüístico, la landing refuerza un posicionamiento práctico: ayudar a quienes quieren ir a Japón a comunicarse mejor, orientarse con más seguridad y entender aspectos cotidianos vinculados con la vida allí.
+
 ## 📋 Servicios
 
-### Comunicación eficiente en Japón — 500€
+### Comunicación eficiente en Japón — 500€*
 
-**Pack de 2 meses**
+Precio anterior: ~~1000€~~  
+**Pack de 2 meses**  
 Comunicación práctica para moverte con más confianza en Japón.
 
 Incluye:
 
 * 2 horas de capacitación en directo, 1 vez por semana.
 * Entrenamiento para comunicarte con más tranquilidad en Japón.
-* Material didáctico incluido.
+* Asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
+* Material didáctico e infografías incluidas.
 * Soporte vía WhatsApp.
 * Financiación disponible.
 
+\*Descuento sujeto a condiciones.
+
 ### Programa Intensivo de Comunicación y JLPT Nōken N5 — 1997€
 
-Precio anterior: ~~2497€~~
-**Pack de aprendizaje intensivo en 3 meses**
+Precio anterior: ~~2497€~~  
+**Pack de aprendizaje intensivo en 3 meses**  
 De cero a una base sólida de JLPT Nōken N5 y comunicación práctica para ir a Japón.
 
 Incluye:
 
 * 72 horas totales de capacitación en directo.
 * 3 clases por semana, de 2 horas cada una.
-* Material didáctico incluido.
+* Material didáctico e infografías incluidas.
 * Soporte vía WhatsApp.
 * Construcción de una base sólida N5 desde cero.
 * Corrección de ejercicios.
@@ -47,14 +53,14 @@ Incluye:
 
 ### Inmersión Total — 4997€
 
-**Plan de inmersión absoluta en 3 meses**
+**Plan de inmersión absoluta en 3 meses**  
 Programa intensivo para quienes buscan avanzar a ritmo acelerado con una carga alta de capacitación en directo.
 
 Incluye:
 
 * Más de 180 horas de capacitación intensiva en directo.
 * 5 días por semana, 3 horas cada vez.
-* Material didáctico incluido.
+* Material didáctico e infografías incluidas.
 * Soporte prioritario vía WhatsApp, en menos de 12 horas.
 * Preparación JLPT Nōken incluida.
 * Plan de estudio completo.
@@ -77,6 +83,8 @@ Presentarse al examen no es obligatorio.
 * Método personalizado según nivel, objetivos y estilo de aprendizaje.
 * Preparación para JLPT Nōken en todos los niveles.
 * Comunicación práctica para desenvolverse en Japón.
+* Asesoramiento general sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
+* Material didáctico e infografías prácticas.
 * Clases online para principiantes absolutos, niveles intermedios y avanzados.
 * Clases disponibles para niños, adolescentes y adultos.
 * Acompañamiento y soporte entre sesiones.
