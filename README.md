@@ -25,8 +25,8 @@ Comunicación práctica para moverte con más confianza en Japón.
 Incluye:
 
 * 2 horas de capacitación en directo, 1 vez por semana.
-* Entrenamiento para comunicarte con más tranquilidad en Japón.
-* Asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
+* Entrenamiento para comunicarte con más tranquilidad en japonés.
+* Si el estudiante lo necesita, asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
 * Material didáctico e infografías incluidas.
 * Soporte vía WhatsApp.
 * Financiación disponible.
@@ -83,7 +83,7 @@ Presentarse al examen no es obligatorio.
 * Método personalizado según nivel, objetivos y estilo de aprendizaje.
 * Preparación para JLPT Nōken en todos los niveles.
 * Comunicación práctica para desenvolverse en Japón.
-* Asesoramiento general sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
+* Asesoramiento general, cuando el estudiante lo necesite, sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
 * Material didáctico e infografías prácticas.
 * Clases online para principiantes absolutos, niveles intermedios y avanzados.
 * Clases disponibles para niños, adolescentes y adultos.
@@ -104,6 +104,7 @@ La página está organizada en las siguientes secciones:
    * Propuesta principal: “Domina el japonés con un enfoque que entiende cómo aprendes”.
    * Imagen de perfil.
    * Tres tarjetas resumen con los planes disponibles.
+   * Precio promocional visible en el plan “Comunicación eficiente en Japón”: ~~1000€~~ 500€.
 
 3. **Estadísticas**
 
