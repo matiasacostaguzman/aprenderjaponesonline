@@ -14,6 +14,8 @@ La página comunica una propuesta premium: aprender japonés con un método pers
 
 Además del aprendizaje lingüístico, la landing refuerza un posicionamiento práctico: ayudar a quienes quieren ir a Japón a comunicarse mejor, orientarse con más seguridad y entender aspectos cotidianos vinculados con la vida allí.
 
+La versión actual también incorpora una FAQ más orientada a conversión, con respuesta a la objeción de precio frente a academias tradicionales y enlaces a redes sociales para reforzar confianza y prueba social.
+
 ## 📋 Servicios
 
 ### Comunicación eficiente en Japón — 500€*
@@ -81,6 +83,8 @@ Presentarse al examen no es obligatorio.
 * Formación en psicología aplicada al aprendizaje.
 * 18 meses viviendo y estudiando japonés en Tokio de forma intensiva.
 * Método personalizado según nivel, objetivos y estilo de aprendizaje.
+* Clases completamente personalizadas 1 a 1.
+* Enfoque diferencial frente a academias tradicionales: la landing comunica que el acompañamiento permite avanzar hasta 10 veces más rápido que una academia convencional.
 * Preparación para JLPT Nōken en todos los niveles.
 * Comunicación práctica para desenvolverse en Japón.
 * Asesoramiento general, cuando el estudiante lo necesite, sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
@@ -138,11 +142,13 @@ La página está organizada en las siguientes secciones:
 8. **Preguntas frecuentes**
 
    * Niveles disponibles.
+   * Objeción de precio frente a academias tradicionales.
    * Garantía JLPT Nōken.
    * Edad mínima/máxima.
    * Modalidad online.
-   * Tiempo estimado para ver progresos.
+   * Tiempo estimado para ver progresos: alrededor de 2 meses o incluso menos.
    * Preparación JLPT Nōken en todos los niveles.
+   * Redes sociales para conocer más al profesor.
 
 9. **CTA final**
 
@@ -177,6 +183,11 @@ La página está organizada en las siguientes secciones:
   * `Inter` para texto general.
   * `Playfair Display` para títulos.
   * `Noto Serif JP` como apoyo tipográfico japonés.
+* Estilo específico para enlaces de Instagram mediante la clase `.enlace-insta`:
+
+  * Color normal/visitado/activo: `#d4af37`.
+  * Color hover: `#ecc955`.
+  * Sin subrayado.
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -214,6 +225,7 @@ Imágenes utilizadas:
 * Animaciones de aparición al hacer scroll con `IntersectionObserver`.
 * Contadores animados en la sección de estadísticas.
 * Acordeón interactivo en preguntas frecuentes.
+* FAQ preparada para respuestas más largas mediante `max-height: 1000px` en los ítems activos.
 * Detección de `prefers-reduced-motion` para reducir animaciones si el usuario lo tiene configurado.
 * Banner de cookies con persistencia en `localStorage`.
 * Enlaces directos a WhatsApp con mensaje predefinido.
@@ -227,6 +239,13 @@ El `index.html` incluye:
 * Idioma principal configurado como español: `lang="es"`.
 * Diseño responsive mediante `viewport`.
 * Textos alternativos en imágenes principales.
+
+## 📱 Redes sociales
+
+La FAQ enlaza a las siguientes cuentas de Instagram:
+
+* [@aprenderjaponesmatias](https://www.instagram.com/aprenderjaponesmatias)
+* [@aprenderjaponesonline](https://www.instagram.com/aprenderjaponesonline), antigua cuenta con más de 10.000 seguidores reales y contenido variado.
 
 ## 📞 Contacto
 
