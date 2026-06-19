@@ -1,6 +1,6 @@
 # Matías Acosta Guzmán - Transforma tu relación con el japonés
 
-Landing page profesional para servicios premium de enseñanza de japonés online, con foco en comunicación práctica, preparación JLPT Nōken y acompañamiento personalizado basado en experiencia real en Japón y formación en psicología.
+Landing page profesional para servicios premium de enseñanza de japonés online, con foco en aprendizaje estructurado, comunicación práctica, preparación JLPT Nōken y acompañamiento personalizado basado en experiencia real en Japón y formación en psicología.
 
 ## 🌐 Web en vivo
 
@@ -14,60 +14,68 @@ La página comunica una propuesta premium: aprender japonés con un método pers
 
 Además del aprendizaje lingüístico, la landing refuerza un posicionamiento práctico: ayudar a quienes quieren ir a Japón a comunicarse mejor, orientarse con más seguridad y entender aspectos cotidianos vinculados con la vida allí.
 
-La versión actual también incorpora una FAQ más orientada a conversión, con respuesta a la objeción de precio frente a academias tradicionales y enlaces a redes sociales para reforzar confianza y prueba social.
+La versión actual también incorpora una FAQ orientada a conversión, con respuesta a la objeción de precio frente a academias tradicionales, explicación del soporte por WhatsApp 24/7 y enlaces a redes sociales para reforzar confianza y prueba social.
 
 ## 📋 Servicios
 
-### Comunicación eficiente en Japón — 500€*
+### Japonés sin ruido — 347 €*
 
-Precio anterior: ~~1000€~~  
+Precio anterior: ~~500 €~~  
 **Pack de 2 meses**  
-Comunicación práctica para moverte con más confianza en Japón.
+**Clases grupales**  
+
+Programa de aprendizaje estructurado para dominar el japonés sin perderse y sin frustraciones por no tener un plan claro para avanzar correctamente.
 
 Incluye:
 
 * 2 horas de capacitación en directo, 1 vez por semana.
-* Entrenamiento para comunicarte con más tranquilidad en japonés.
-* Si el estudiante lo necesita, asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
+* Programa estructurado y optimizado para avanzar sin perderse entre demasiados recursos, métodos o materiales.
+* Grupos reducidos.
 * Material didáctico e infografías incluidas.
-* Soporte vía WhatsApp.
+* Si el estudiante lo necesita, asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
+* Soporte vía WhatsApp 24/7.
 * Financiación disponible.
 
 \*Descuento sujeto a condiciones.
 
-### Programa Intensivo de Comunicación y JLPT Nōken N5 — 1997€
+### Programa Intensivo de Comunicación y JLPT Nōken N5 — 1997 €
 
-Precio anterior: ~~2497€~~  
+Precio anterior: ~~2497 €~~  
 **Pack de aprendizaje intensivo en 3 meses**  
+**Clases individuales**  
+
 De cero a una base sólida de JLPT Nōken N5 y comunicación práctica para ir a Japón.
 
 Incluye:
 
-* 72 horas totales de capacitación en directo.
-* 3 clases por semana, de 2 horas cada una.
+* 48 horas totales de capacitación en directo.
+* 2 clases por semana, de 2 horas cada una.
 * Material didáctico e infografías incluidas.
-* Soporte vía WhatsApp.
+* Avance a ritmo acelerado.
 * Construcción de una base sólida N5 desde cero.
-* Corrección de ejercicios.
+* Corrección de ejercicios fuera del horario de clases, de forma opcional.
+* Soporte vía WhatsApp 24/7.
 * Garantía de aprobación del JLPT Nōken, examen oficial e internacional de japonés.
 * Posibilidad de consultar por este mismo plan para otros niveles.
 * Financiación disponible.
 
-### Inmersión Total — 4997€
+### Inmersión Total — 4997 €
 
 **Plan de inmersión absoluta en 3 meses**  
-Programa intensivo para quienes buscan avanzar a ritmo acelerado con una carga alta de capacitación en directo.
+**Clases individuales**  
+
+Programa intensivo para quienes buscan avanzar a ritmo muy acelerado con una carga alta de capacitación en directo.
 
 Incluye:
 
-* Más de 180 horas de capacitación intensiva en directo.
-* 5 días por semana, 3 horas cada vez.
+* Más de 120 horas de capacitación intensiva en directo.
+* 5 días por semana, 2 horas cada vez.
 * Material didáctico e infografías incluidas.
-* Soporte prioritario vía WhatsApp, en menos de 12 horas.
 * Preparación JLPT Nōken incluida.
 * Plan de estudio completo.
-* Avance a ritmo acelerado.
-* Corrección de ejercicios en menos de 24 horas.
+* Avance a ritmo muy acelerado.
+* Corrección de ejercicios en menos de 24 horas, de forma opcional.
+* Soporte prioritario vía WhatsApp 24/7.
 * Garantía de aprobación del JLPT Nōken, examen oficial e internacional de japonés.
 * Financiación disponible.
 
@@ -83,8 +91,11 @@ Presentarse al examen no es obligatorio.
 * Formación en psicología aplicada al aprendizaje.
 * 18 meses viviendo y estudiando japonés en Tokio de forma intensiva.
 * Método personalizado según nivel, objetivos y estilo de aprendizaje.
-* Clases completamente personalizadas 1 a 1.
-* Enfoque diferencial frente a academias tradicionales: la landing comunica que el acompañamiento permite avanzar hasta 10 veces más rápido que una academia convencional.
+* Programa base estructurado para eliminar ruido, ordenar el aprendizaje y evitar la frustración por exceso de recursos o falta de plan.
+* Planes individuales para quienes buscan un acompañamiento más intensivo y personalizado.
+* Grupos reducidos en el plan base.
+* Soporte vía WhatsApp 24/7, con respuesta lo antes posible, casi siempre en menos de 24 horas.
+* Enfoque diferencial frente a academias tradicionales: la landing comunica que se puede avanzar hasta 5 veces más rápido porque se elimina ruido, se prioriza lo útil y hay seguimiento entre clases.
 * Preparación para JLPT Nōken en todos los niveles.
 * Comunicación práctica para desenvolverse en Japón.
 * Asesoramiento general, cuando el estudiante lo necesite, sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
@@ -100,7 +111,7 @@ La página está organizada en las siguientes secciones:
 1. **Navegación fija**
 
    * Logo/nombre profesional.
-   * Links internos: Inicio, Experiencia, Metodología, Planes y Solicita acceso.
+   * Links internos: Inicio, Experiencia, Metodología, Planes, Preguntas Frecuentes y Solicita acceso.
    * Menú responsive para móvil.
 
 2. **Hero**
@@ -108,7 +119,9 @@ La página está organizada en las siguientes secciones:
    * Propuesta principal: “Domina el japonés con un enfoque que entiende cómo aprendes”.
    * Imagen de perfil.
    * Tres tarjetas resumen con los planes disponibles.
-   * Precio promocional visible en el plan “Comunicación eficiente en Japón”: ~~1000€~~ 500€.
+   * Precio promocional visible en el plan “Japonés sin ruido”: ~~500 €~~ 347 €.
+   * Precio promocional visible en el plan intensivo: ~~2497 €~~ 1997 €.
+   * Inmersión Total presentada como plan de 4997 € y más de 120 horas de capacitación intensiva.
 
 3. **Estadísticas**
 
@@ -135,19 +148,19 @@ La página está organizada en las siguientes secciones:
 
 7. **Planes / Servicios**
 
-   * Comunicación eficiente en Japón.
+   * Japonés sin ruido.
    * Programa Intensivo de Comunicación y JLPT Nōken N5.
    * Inmersión Total.
 
 8. **Preguntas frecuentes**
 
-   * Niveles disponibles.
+   * Niveles disponibles y límite de edad.
    * Objeción de precio frente a academias tradicionales.
-   * Garantía JLPT Nōken.
-   * Edad mínima/máxima.
    * Modalidad online.
+   * Significado del soporte vía WhatsApp 24/7.
    * Tiempo estimado para ver progresos: alrededor de 2 meses o incluso menos.
    * Preparación JLPT Nōken en todos los niveles.
+   * Garantía de aprobación JLPT Nōken.
    * Redes sociales para conocer más al profesor.
 
 9. **CTA final**
@@ -229,6 +242,7 @@ Imágenes utilizadas:
 * Detección de `prefers-reduced-motion` para reducir animaciones si el usuario lo tiene configurado.
 * Banner de cookies con persistencia en `localStorage`.
 * Enlaces directos a WhatsApp con mensaje predefinido.
+* Enlaces externos a Instagram con `target="_blank"` y `rel="noopener noreferrer"`.
 
 ## 🔎 SEO básico
 
