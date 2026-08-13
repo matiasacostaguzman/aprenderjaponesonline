@@ -1,222 +1,21 @@
-# Matías Acosta Guzmán - Transforma tu relación con el japonés
+# Landing page de Matías Acosta Guzmán
 
-Landing page profesional para servicios premium de enseñanza de japonés online, con foco en aprendizaje estructurado, comunicación práctica, preparación JLPT Nōken y acompañamiento personalizado basado en experiencia real en Japón y formación en psicología.
+Landing page estática para presentar los servicios online de enseñanza de japonés de Matías Acosta Guzmán. La propuesta combina aprendizaje estructurado, acompañamiento personalizado, experiencia de estudio en Tokio y formación en psicología aplicada al aprendizaje.
 
-## 🌐 Web en vivo
+## Web en vivo
 
 [aprenderjaponesonline.com](https://aprenderjaponesonline.com)
 
-## 📌 Descripción general
+## Estado del proyecto
 
-Este proyecto contiene una landing page estática en HTML, CSS y JavaScript vanilla para presentar los servicios de enseñanza de japonés de Matías Acosta Guzmán.
+Esta documentación corresponde al contenido actual de `index.html`. La oferta, los precios y los textos comerciales pueden cambiar, por lo que el HTML debe considerarse la fuente principal antes de publicar una nueva versión.
 
-La página comunica una propuesta premium: aprender japonés con un método personalizado, práctico y orientado a resultados, combinando más de 10 años de experiencia docente, 18 meses de estudio intensivo en Tokio y formación en psicología aplicada al aprendizaje.
+El proyecto no utiliza framework, gestor de paquetes ni proceso de compilación: toda la estructura, los estilos y la lógica están incluidos en un único archivo HTML.
 
-Además del aprendizaje lingüístico, la landing refuerza un posicionamiento práctico: ayudar a quienes quieren ir a Japón a comunicarse mejor, orientarse con más seguridad y entender aspectos cotidianos vinculados con la vida allí.
-
-La versión actual también incorpora una FAQ orientada a conversión, con respuesta a la objeción de precio frente a academias tradicionales, explicación del soporte por WhatsApp 24/7 y enlaces a redes sociales para reforzar confianza y prueba social.
-
-## 📋 Servicios
-
-### Japonés sin ruido — 347 €*
-
-Precio anterior: ~~500 €~~  
-**Pack de 2 meses**  
-**Clases grupales**  
-
-Programa de aprendizaje estructurado para dominar el japonés sin perderse y sin frustraciones por no tener un plan claro para avanzar correctamente.
-
-Incluye:
-
-* 2 horas de capacitación en directo, 1 vez por semana.
-* Programa estructurado y optimizado para avanzar sin perderse entre demasiados recursos, métodos o materiales.
-* Grupos reducidos.
-* Material didáctico e infografías incluidas.
-* Si el estudiante lo necesita, asesoramiento sobre la vida en Japón, visados, trabajo, alquiler, etc.
-* Soporte vía WhatsApp 24/7.
-* Financiación disponible.
-
-\*Descuento sujeto a condiciones.
-
-### Programa Intensivo de Comunicación y JLPT Nōken N5 — 1997 €
-
-Precio anterior: ~~2497 €~~  
-**Pack de aprendizaje intensivo en 3 meses**  
-**Clases individuales**  
-
-De cero a una base sólida de JLPT Nōken N5 y comunicación práctica para ir a Japón.
-
-Incluye:
-
-* 48 horas totales de capacitación en directo.
-* 2 clases por semana, de 2 horas cada una.
-* Material didáctico e infografías incluidas.
-* Avance a ritmo acelerado.
-* Construcción de una base sólida N5 desde cero.
-* Corrección de ejercicios fuera del horario de clases, de forma opcional.
-* Soporte vía WhatsApp 24/7.
-* Garantía de aprobación del JLPT Nōken, examen oficial e internacional de japonés.
-* Posibilidad de consultar por este mismo plan para otros niveles.
-* Financiación disponible.
-
-### Inmersión Total — 4997 €
-
-**Plan de inmersión absoluta en 3 meses**  
-**Clases individuales**  
-
-Programa intensivo para quienes buscan avanzar a ritmo muy acelerado con una carga alta de capacitación en directo.
-
-Incluye:
-
-* Más de 120 horas de capacitación intensiva en directo.
-* 5 días por semana, 2 horas cada vez.
-* Material didáctico e infografías incluidas.
-* Preparación JLPT Nōken incluida.
-* Plan de estudio completo.
-* Avance a ritmo muy acelerado.
-* Corrección de ejercicios en menos de 24 horas, de forma opcional.
-* Soporte prioritario vía WhatsApp 24/7.
-* Garantía de aprobación del JLPT Nōken, examen oficial e internacional de japonés.
-* Financiación disponible.
-
-## ✅ Garantía JLPT Nōken
-
-La garantía de aprobación aplica si el estudiante decide presentarse al examen oficial y cumple con al menos el 90% de las tareas asignadas. En ese caso, si no aprueba, seguirá recibiendo clases gratis hasta conseguirlo.
-
-Presentarse al examen no es obligatorio.
-
-## ✨ Diferenciadores
-
-* Más de 10 años de experiencia docente.
-* Formación en psicología aplicada al aprendizaje.
-* 18 meses viviendo y estudiando japonés en Tokio de forma intensiva.
-* Método personalizado según nivel, objetivos y estilo de aprendizaje.
-* Programa base estructurado para eliminar ruido, ordenar el aprendizaje y evitar la frustración por exceso de recursos o falta de plan.
-* Planes individuales para quienes buscan un acompañamiento más intensivo y personalizado.
-* Grupos reducidos en el plan base.
-* Soporte vía WhatsApp 24/7, con respuesta lo antes posible, casi siempre en menos de 24 horas.
-* Enfoque diferencial frente a academias tradicionales: la landing comunica que se puede avanzar hasta 5 veces más rápido porque se elimina ruido, se prioriza lo útil y hay seguimiento entre clases.
-* Preparación para JLPT Nōken en todos los niveles.
-* Comunicación práctica para desenvolverse en Japón.
-* Asesoramiento general, cuando el estudiante lo necesite, sobre vida en Japón, visados, trabajo, alquiler y adaptación cotidiana.
-* Material didáctico e infografías prácticas.
-* Clases online para principiantes absolutos, niveles intermedios y avanzados.
-* Clases disponibles para niños, adolescentes y adultos.
-* Acompañamiento y soporte entre sesiones.
-
-## 🧭 Estructura de la landing
-
-La página está organizada en las siguientes secciones:
-
-1. **Navegación fija**
-
-   * Logo/nombre profesional.
-   * Links internos: Inicio, Experiencia, Metodología, Planes, Preguntas Frecuentes y Solicita acceso.
-   * Menú responsive para móvil.
-
-2. **Hero**
-
-   * Propuesta principal: “Domina el japonés con un enfoque que entiende cómo aprendes”.
-   * Imagen de perfil.
-   * Tres tarjetas resumen con los planes disponibles.
-   * Precio promocional visible en el plan “Japonés sin ruido”: ~~500 €~~ 347 €.
-   * Precio promocional visible en el plan intensivo: ~~2497 €~~ 1997 €.
-   * Inmersión Total presentada como plan de 4997 € y más de 120 horas de capacitación intensiva.
-
-3. **Estadísticas**
-
-   * 10+ años de experiencia docente.
-   * 18 meses viviendo y estudiando en Tokio.
-   * 100% enfoque personalizado.
-   * Preparación oficial JLPT Nōken.
-
-4. **Experiencia en Japón**
-
-   * Sección sobre la experiencia de vivir y estudiar en Tokio.
-   * Refuerzo del posicionamiento: enseñanza desde experiencia real, no solo desde libros.
-
-5. **Psicología aplicada al aprendizaje**
-
-   * Explicación del valor diferencial de la formación en psicología.
-   * Enfoque en memoria, motivación, bloqueos y adaptación al estilo cognitivo del estudiante.
-
-6. **Metodología**
-
-   * Diagnóstico inicial.
-   * Progresión estructurada.
-   * Acompañamiento continuo.
-
-7. **Planes / Servicios**
-
-   * Japonés sin ruido.
-   * Programa Intensivo de Comunicación y JLPT Nōken N5.
-   * Inmersión Total.
-
-8. **Preguntas frecuentes**
-
-   * Niveles disponibles y límite de edad.
-   * Objeción de precio frente a academias tradicionales.
-   * Modalidad online.
-   * Significado del soporte vía WhatsApp 24/7.
-   * Tiempo estimado para ver progresos: alrededor de 2 meses o incluso menos.
-   * Preparación JLPT Nōken en todos los niveles.
-   * Garantía de aprobación JLPT Nōken.
-   * Redes sociales para conocer más al profesor.
-
-9. **CTA final**
-
-   * Llamado a consultar plazas por WhatsApp.
-
-10. **Footer**
-
-    * Nombre profesional.
-    * Tagline.
-    * Contacto por WhatsApp.
-    * Copyright 2026.
-
-11. **Banner de cookies**
-
-    * Aviso básico de cookies técnicas.
-    * Aceptación guardada en `localStorage`.
-
-## 🎨 Diseño
-
-* Estética premium, oscura y minimalista.
-* Paleta principal:
-
-  * Fondo principal: `#1a1a1a`
-  * Fondo secundario: `#242424`
-  * Tarjetas: `#2a2a2a`
-  * Texto principal: `#ffffff`
-  * Texto secundario: `#b0b0b0`
-  * Dorado/acento: `#d4af37`
-  * Rojo/acento secundario: `#c41e3a`
-* Tipografías:
-
-  * `Inter` para texto general.
-  * `Playfair Display` para títulos.
-  * `Noto Serif JP` como apoyo tipográfico japonés.
-* Estilo específico para enlaces de Instagram mediante la clase `.enlace-insta`:
-
-  * Color normal/visitado/activo: `#d4af37`.
-  * Color hover: `#ecc955`.
-  * Sin subrayado.
-
-## 🛠️ Tecnologías utilizadas
-
-* HTML5.
-* CSS3 embebido en el propio `index.html`.
-* JavaScript vanilla embebido en el propio `index.html`.
-* Google Fonts.
-* Font Awesome 6.4.0 desde CDN.
-* WhatsApp Click to Chat.
-
-## 📁 Archivos e imágenes esperadas
-
-El proyecto espera la siguiente estructura básica:
+## Estructura
 
 ```text
-/
+v71/
 ├── index.html
 ├── README.md
 └── images/
@@ -224,47 +23,156 @@ El proyecto espera la siguiente estructura básica:
     └── tokyo.jpg
 ```
 
-Imágenes utilizadas:
+- `index.html`: estructura HTML, estilos CSS y comportamiento JavaScript.
+- `images/profile.jpg`: fotografía utilizada en la cabecera.
+- `images/tokyo.jpg`: imagen de la sección sobre la experiencia en Japón.
 
-* `images/profile.jpg`: imagen de perfil de Matías Acosta Guzmán.
-* `images/tokyo.jpg`: imagen vinculada a la experiencia en Tokio.
+## Contenido de la página
 
-## ⚙️ Funcionalidades incluidas
+La landing está organizada en las siguientes secciones:
 
-* Navegación fija con efecto al hacer scroll.
-* Ocultamiento de navegación en móvil al desplazarse hacia abajo.
-* Menú móvil desplegable.
-* Scroll suave para enlaces internos.
-* Animaciones de aparición al hacer scroll con `IntersectionObserver`.
-* Contadores animados en la sección de estadísticas.
-* Acordeón interactivo en preguntas frecuentes.
-* FAQ preparada para respuestas más largas mediante `max-height: 1000px` en los ítems activos.
-* Detección de `prefers-reduced-motion` para reducir animaciones si el usuario lo tiene configurado.
-* Banner de cookies con persistencia en `localStorage`.
-* Enlaces directos a WhatsApp con mensaje predefinido.
-* Enlaces externos a Instagram con `target="_blank"` y `rel="noopener noreferrer"`.
+1. **Navegación fija**: enlaces a Inicio, Experiencia, Metodología, Planes, Preguntas Frecuentes y Solicita acceso, con menú adaptado a móvil.
+2. **Presentación principal**: propuesta de valor, fotografía de Matías y resumen de los tres planes.
+3. **Indicadores de experiencia**: más de 10 años de docencia, 18 meses viviendo y estudiando en Tokio, enfoque personalizado y preparación para el JLPT Nōken.
+4. **Experiencia en Japón**: descripción del aprendizaje intensivo y la inmersión vivida en Tokio.
+5. **Psicología y aprendizaje**: explicación del aporte de la formación psicológica a la enseñanza.
+6. **Metodología**: diagnóstico inicial, progresión estructurada y acompañamiento continuo.
+7. **Planes**: detalle de las tres modalidades ofrecidas.
+8. **Preguntas frecuentes**: niveles, edades, modalidad, precios, soporte, progreso, preparación JLPT Nōken y redes sociales.
+9. **Llamada a la acción**: consulta de plazas por WhatsApp.
+10. **Pie de página**: identidad profesional, contacto y copyright.
+11. **Aviso de cookies**: banner con aceptación persistida en el navegador.
 
-## 🔎 SEO básico
+## Planes mostrados
 
-El `index.html` incluye:
+### Japonés sin ruido
 
-* Etiqueta `title` optimizada.
-* Meta descripción.
-* Idioma principal configurado como español: `lang="es"`.
-* Diseño responsive mediante `viewport`.
-* Textos alternativos en imágenes principales.
+- Pack grupal de 2 meses.
+- Precio mostrado: ~~1300 €~~ **997 €\***.
+- Una sesión semanal de 2 horas en directo.
+- Programa estructurado, grupos reducidos, materiales y soporte por WhatsApp.
+- Financiación disponible.
 
-## 📱 Redes sociales
+\* Descuento sujeto a condiciones.
 
-La FAQ enlaza a las siguientes cuentas de Instagram:
+### Programa Intensivo de Comunicación y JLPT Nōken N5
 
-* [@aprenderjaponesmatias](https://www.instagram.com/aprenderjaponesmatias)
-* [@aprenderjaponesonline](https://www.instagram.com/aprenderjaponesonline), antigua cuenta con más de 10.000 seguidores reales y contenido variado.
+- Pack individual de 3 meses.
+- 48 horas de formación en directo: dos sesiones semanales de 2 horas.
+- Materiales, corrección opcional de ejercicios, soporte por WhatsApp y preparación del JLPT Nōken.
+- Financiación disponible.
 
-## 📞 Contacto
+> **Revisión pendiente:** el resumen superior muestra ~~3497 €~~ **2997 €**, mientras que la tarjeta detallada muestra ~~2497 €~~ **1997 €**. Conviene unificar ambos importes antes de publicar.
 
-WhatsApp: [+34 642 34 57 11](https://wa.me/34642345711?text=Hola,%20Matías,%20me%20interesan%20tus%20servicios.)
+### Inmersión Total
 
-## © Copyright
+- Plan individual de 3 meses.
+- Precio mostrado: **4997 €**.
+- Más de 120 horas de formación intensiva en directo.
+- Cinco sesiones semanales de 2 horas.
+- Plan de estudio, materiales, corrección opcional, soporte prioritario y preparación del JLPT Nōken.
+- Financiación disponible.
+
+Los textos sobre alcance, condiciones, soporte y garantía reproducen la oferta comunicada en la página; no constituyen documentación contractual independiente.
+
+## Diseño
+
+La interfaz utiliza una estética oscura, minimalista y de posicionamiento premium.
+
+### Paleta principal
+
+| Uso | Color |
+| --- | --- |
+| Fondo principal | `#1a1a1a` |
+| Fondo secundario | `#242424` |
+| Tarjetas | `#2a2a2a` |
+| Texto principal | `#ffffff` |
+| Texto secundario | `#b0b0b0` |
+| Acento dorado | `#d4af37` |
+| Acento rojo | `#c41e3a` |
+
+### Tipografías
+
+- **Inter**: texto general e interfaz.
+- **Playfair Display**: títulos.
+- **Noto Serif JP**: apoyo para caracteres japoneses.
+
+Las fuentes se cargan desde Google Fonts y los iconos desde Font Awesome 6.4.0.
+
+## Funcionalidades
+
+- Navegación fija que cambia de aspecto al desplazarse.
+- Ocultación de la barra de navegación en móvil al bajar por la página.
+- Menú móvil desplegable.
+- Desplazamiento suave entre secciones.
+- Animaciones de entrada mediante `IntersectionObserver`.
+- Contadores animados para los indicadores de experiencia.
+- Acordeón interactivo para las preguntas frecuentes.
+- Compatibilidad con `prefers-reduced-motion`.
+- Banner de cookies con aceptación guardada en `localStorage`.
+- Enlaces directos a WhatsApp con mensaje predefinido.
+- Enlaces a Instagram.
+- Medición mediante Google Analytics, con el identificador `G-JCV7QC7YFV`.
+
+## Tecnologías y servicios externos
+
+- HTML5.
+- CSS3 embebido.
+- JavaScript vanilla embebido.
+- Google Fonts.
+- Font Awesome 6.4.0 mediante CDN.
+- Google Analytics (`gtag.js`).
+- WhatsApp Click to Chat.
+- Instagram.
+
+La página necesita conexión a internet para cargar las fuentes, los iconos, Analytics y los destinos externos, pero su estructura principal no requiere un servidor de aplicaciones.
+
+## Ejecución local
+
+Para una revisión rápida se puede abrir `index.html` directamente en el navegador. Para reproducir mejor el comportamiento de una web publicada, es preferible servir la carpeta con un servidor local, por ejemplo:
+
+```bash
+python -m http.server 8000
+```
+
+Después, abrir `http://localhost:8000`.
+
+## Configuración que suele requerir cambios
+
+Antes de publicar una actualización, conviene revisar en `index.html`:
+
+- Textos, duración, precios y condiciones de cada plan.
+- Importes duplicados entre el resumen superior y las tarjetas detalladas.
+- Número y mensaje predefinido de WhatsApp.
+- Enlaces de Instagram.
+- Identificador de Google Analytics.
+- Año del copyright.
+- Metadatos SEO: `title` y `meta description`.
+- Imágenes y textos alternativos.
+- Texto y funcionamiento del aviso de cookies.
+
+## SEO y accesibilidad incluidos
+
+- Documento configurado en español mediante `lang="es"`.
+- Etiqueta `title` y meta descripción.
+- Metaetiqueta `viewport` para diseño responsive.
+- Textos alternativos en las imágenes principales.
+- Opción de reducir animaciones según la preferencia del sistema.
+
+## Notas de mantenimiento
+
+1. **Precios duplicados:** el plan intensivo presenta importes diferentes en el resumen superior y en la sección de planes.
+2. **Cookies y Analytics:** el aviso indica que no se utilizan cookies de terceros, pero el documento carga Google Analytics. Es necesario revisar el texto y la implementación de consentimiento conforme a la normativa aplicable antes de publicar.
+3. **Contenido comercial:** las afirmaciones sobre velocidad de avance, resultados y garantía deben revisarse cuando cambien la oferta o sus condiciones.
+4. **Código autocontenido:** al estar todo el CSS y JavaScript dentro de `index.html`, cualquier cambio afecta directamente a producción. Si el proyecto crece, puede ser útil separar estilos y scripts.
+
+## Contacto
+
+- Web: [aprenderjaponesonline.com](https://aprenderjaponesonline.com)
+- Correo: [info@aprenderjaponesonline.com](mailto:info@aprenderjaponesonline.com)
+- WhatsApp: [(+34) 642 34 57 11](https://wa.me/34642345711?text=Hola,%20Mat%C3%ADas,%20me%20interesan%20tus%20servicios.)
+- Instagram: [@aprenderjaponesmatias](https://www.instagram.com/aprenderjaponesmatias)
+
+## Derechos de autor
 
 © 2026 Matías Acosta Guzmán. Todos los derechos reservados.
