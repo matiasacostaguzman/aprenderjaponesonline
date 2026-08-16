@@ -48,7 +48,7 @@ La landing está organizada en las siguientes secciones:
 ### Japonés sin ruido
 
 - Pack grupal de 3 meses.
-- Precio mostrado: ~~1300 €~~ **997 €\***.
+- Precio mostrado: ~~1500 €~~ **997 €\***.
 - 4 horas semanales de formación en directo.
 - Grupos reducidos de hasta 5 personas.
 - Programa estructurado, materiales didácticos e infografías.
@@ -61,7 +61,7 @@ La landing está organizada en las siguientes secciones:
 ### Programa Intensivo de Comunicación y JLPT Nōken N5
 
 - Pack individual de 3 meses.
-- Precio mostrado: ~~4500 €~~ **3997 €**.
+- Precio mostrado: ~~6000 €~~ **3997 €**.
 - 48 horas de formación individual en directo: dos sesiones semanales de 2 horas.
 - Materiales, corrección opcional de ejercicios, soporte por WhatsApp y preparación del JLPT Nōken.
 - Financiación disponible.
@@ -69,7 +69,7 @@ La landing está organizada en las siguientes secciones:
 ### Inmersión Total
 
 - Plan individual de 3 meses.
-- Precio mostrado: **7997 €**.
+- Precio mostrado: **8997 €**.
 - Más de 120 horas de formación individual e intensiva en directo.
 - Cinco sesiones semanales de 2 horas.
 - Plan de estudio, materiales, corrección opcional, soporte prioritario y preparación del JLPT Nōken.
