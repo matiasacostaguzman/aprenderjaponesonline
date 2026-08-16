@@ -47,10 +47,13 @@ La landing está organizada en las siguientes secciones:
 
 ### Japonés sin ruido
 
-- Pack grupal de 2 meses.
+- Pack grupal de 3 meses.
 - Precio mostrado: ~~1300 €~~ **997 €\***.
-- Una sesión semanal de 2 horas en directo.
-- Programa estructurado, grupos reducidos, materiales y soporte por WhatsApp.
+- 4 horas semanales de formación en directo.
+- Grupos reducidos de hasta 5 personas.
+- Programa estructurado, materiales didácticos e infografías.
+- Asesoramiento opcional sobre aspectos prácticos de la vida en Japón.
+- Soporte por WhatsApp y garantía sujeta a condiciones.
 - Financiación disponible.
 
 \* Descuento sujeto a condiciones.
@@ -58,17 +61,16 @@ La landing está organizada en las siguientes secciones:
 ### Programa Intensivo de Comunicación y JLPT Nōken N5
 
 - Pack individual de 3 meses.
-- 48 horas de formación en directo: dos sesiones semanales de 2 horas.
+- Precio mostrado: ~~4500 €~~ **3997 €**.
+- 48 horas de formación individual en directo: dos sesiones semanales de 2 horas.
 - Materiales, corrección opcional de ejercicios, soporte por WhatsApp y preparación del JLPT Nōken.
 - Financiación disponible.
-
-> **Revisión pendiente:** el resumen superior muestra ~~3497 €~~ **2997 €**, mientras que la tarjeta detallada muestra ~~2497 €~~ **1997 €**. Conviene unificar ambos importes antes de publicar.
 
 ### Inmersión Total
 
 - Plan individual de 3 meses.
-- Precio mostrado: **4997 €**.
-- Más de 120 horas de formación intensiva en directo.
+- Precio mostrado: **7997 €**.
+- Más de 120 horas de formación individual e intensiva en directo.
 - Cinco sesiones semanales de 2 horas.
 - Plan de estudio, materiales, corrección opcional, soporte prioritario y preparación del JLPT Nōken.
 - Financiación disponible.
@@ -161,10 +163,9 @@ Antes de publicar una actualización, conviene revisar en `index.html`:
 
 ## Notas de mantenimiento
 
-1. **Precios duplicados:** el plan intensivo presenta importes diferentes en el resumen superior y en la sección de planes.
-2. **Cookies y Analytics:** el aviso indica que no se utilizan cookies de terceros, pero el documento carga Google Analytics. Es necesario revisar el texto y la implementación de consentimiento conforme a la normativa aplicable antes de publicar.
-3. **Contenido comercial:** las afirmaciones sobre velocidad de avance, resultados y garantía deben revisarse cuando cambien la oferta o sus condiciones.
-4. **Código autocontenido:** al estar todo el CSS y JavaScript dentro de `index.html`, cualquier cambio afecta directamente a producción. Si el proyecto crece, puede ser útil separar estilos y scripts.
+1. **Cookies y Analytics:** el aviso indica que no se utilizan cookies de terceros, pero el documento carga Google Analytics. Es necesario revisar el texto y la implementación del consentimiento conforme a la normativa aplicable antes de publicar.
+2. **Contenido comercial:** las afirmaciones sobre velocidad de avance, resultados y garantía deben revisarse cuando cambien la oferta o sus condiciones.
+3. **Código autocontenido:** al estar todo el CSS y JavaScript dentro de `index.html`, cualquier cambio afecta directamente a producción. Si el proyecto crece, puede ser útil separar estilos y scripts.
 
 ## Contacto
 
